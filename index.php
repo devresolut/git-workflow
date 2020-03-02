@@ -28,7 +28,7 @@ if (isset($_POST['name'])) {
 <html lang="pt-br">
 	<head>
 		<meta charset="utf-8">
-		<title>PSOQF - Amigo Oculto</title>
+		<title>PSOQF - Amigo Oculto 2020</title>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">	
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300&display=swap" rel="stylesheet">
